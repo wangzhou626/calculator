@@ -1,4 +1,3 @@
-# calculator
 # 八进制、十进制之间的相互转换
 def dec_to_oct(num):
     if num == 0:

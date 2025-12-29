@@ -1,5 +1,5 @@
 # calculator
-进制转换计算器，支持二进制、八进制、十进制之间的相互转换
+# 进制转换计算器，支持二进制、八进制、十进制之间的相互转换
 from binary_decimal import dec_to_bin, bin_to_decfrom octal_decimal import dec_to_oct, oct_to_dec
 def show_menu():
     """显示主菜单"""
